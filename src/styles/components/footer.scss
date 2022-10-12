@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    height: 100px;
+    width: 800px;
+    align-items: left;
+    justify-content: left;
+    margin-bottom: 50px;
+    
+    h3 {
+    color: $color-3;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    }
+    img {
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+    }
+    }
